@@ -1,3 +1,10 @@
-# programLibrary
+# playground
 
-This is a bunch of practice programs that I use to help me learn a language. Working on C and Java currently.
+Any and all practice programs I make for any language I choose.
+
+Languages include:
+ - C
+ - Java
+ - COBOL
+ - Lisp
+ - Anything I feel like
