@@ -14,7 +14,7 @@ double compoundInterest(double initialPrincipal, double rate, double interest, d
 double profitMargin(double profit, double revenue);
 double netIncome(double revenue, double totalCost);
 double burnRatePercentage(double totalCost, double totalRevenue);
-double fiftyThirtyTwenty(double interestRate);
+double* fiftyThirtyTwenty(double interestRate);
 double ruleOf72(double revenue);
 double ruleOf25(double annualCosts);
 double fourPercentWithdrawl(double nestEgg);
