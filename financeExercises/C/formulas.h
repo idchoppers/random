@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <math.h>
 
 #ifndef FORMULAS_H_INCLUDED
