@@ -10,6 +10,8 @@ Java is an Object Oriented language, so I can utilize encapsulation. I made ever
 I had to reorganize the class containing the formulas into a package (which I learned is just Java's fancy name for a directory) so that the test program can access it 
 correctly.
 
+There is a slight issue with the test program, Java does not round numbers the same way that C does, to combat this you must use your own rounding algorithm.
+
 # HolyC
 
 This one was pretty much C with a few differences, for example, the type "F64" is a 64 bit floating point, which is equivilent to C's "double" type. I did not create a
