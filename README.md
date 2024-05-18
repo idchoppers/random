@@ -1,4 +1,4 @@
-# playground
+# random
 
 Any and all practice programs I make for any language I choose.
 
